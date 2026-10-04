@@ -72,8 +72,7 @@ def gerarID(lista_tarefas: list[Tarefa]):
             maior_id = tarefa.id                 
     
     return maior_id + 1
-            
-        
+
 #end region
 
 #region CRUD       
